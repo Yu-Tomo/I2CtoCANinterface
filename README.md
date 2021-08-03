@@ -6,4 +6,5 @@
 
 現在は使用できるROMはAtmel社の93c86に限ります。
 
-詳しくはQiitaに書いています：作成中
+詳しくはpdfにまとめています。
+https://drive.google.com/file/d/1WG4btia293gUnD_GRn8cUiSVqdHZPErU/view?usp=sharing
